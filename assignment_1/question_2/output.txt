@@ -1,0 +1,4 @@
+ ascending order :
+           2           4           5          12          23          34          76
+ descending order :
+          76          34          23          12           5           4           2
