@@ -1,2 +1,2 @@
 # Fortran Lab Solutions
-Solutions for Fortran lab assignment-1
+Solutions for Fortran lab assignments
