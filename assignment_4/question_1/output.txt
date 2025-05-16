@@ -1,0 +1,6 @@
+      method           Approx.  Abs. Error
+      ======           =======  ==========
+three point midpoint   4.41639   0.00184
+three point endpoint   4.41103   0.00353
+five point midpoint   4.41454   0.00002
+five point endpoint   4.41447   0.00008
